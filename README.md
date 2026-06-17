@@ -4,7 +4,7 @@ This project fine-tunes a **SegFormer** vision transformer for binary semantic s
 
 ## What It Does
 
-All work is in `Assessment_2_v5.ipynb`:
+All work is in `Brain_Tumor_Semantic_Segmentation_v5.ipynb`:
 
 ### Data Loading and Preprocessing
 Reads MRI images and corresponding tumor masks from `brain_tumor_dataset.h5` (HDF5 format). Preprocessing per sample:
