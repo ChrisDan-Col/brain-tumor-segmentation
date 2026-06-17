@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Model checkpoints — too large for GitHub (each ~970 MB)
+checkpoints_*/
+
+# Brain tumor dataset — 241 MB, tracked with Git LFS or download separately
+# brain_tumor_dataset.h5
